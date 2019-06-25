@@ -1,0 +1,223 @@
+E:\团队项目\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\团队项目\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\团队项目\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\团队项目\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Heacher.csprojAssemblyReference.cache
+E:\团队项目\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_Log.resources
+E:\团队项目\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_register.resources
+E:\团队项目\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\团队项目\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Heacher.csproj.GenerateResource.cache
+E:\团队项目\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Heacher.csproj.CoreCompileInputs.cache
+E:\团队项目\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\团队项目\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\团队项目\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\Heacher.csproj.CopyComplete
+E:\团队项目\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_Hall.resources
+E:\团队项目\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+E:\团队项目\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+E:\团队项目\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+E:\团队项目\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csprojAssemblyReference.cache
+E:\团队项目\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_feedback.resources
+E:\团队项目\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_Log.resources
+E:\团队项目\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_hall.resources
+E:\团队项目\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_register.resources
+E:\团队项目\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\团队项目\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.GenerateResource.cache
+E:\团队项目\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.CoreCompileInputs.cache
+E:\团队项目\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.CopyComplete
+E:\团队项目\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+E:\团队项目\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+E:\团队项目\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_user.resources
+E:\团队项目\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_lesson_info.resources
+E:\团队项目\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_reward_info.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面 (1)\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面 (1)\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面 (1)\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面 (1)\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csprojAssemblyReference.cache
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面 (1)\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_feedback.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面 (1)\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_lesson_info.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面 (1)\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_Log.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面 (1)\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_hall.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面 (1)\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_register.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面 (1)\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_reward_info.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面 (1)\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_user.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面 (1)\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面 (1)\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.GenerateResource.cache
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面 (1)\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面 (1)\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.CopyComplete
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面 (1)\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面 (1)\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csprojAssemblyReference.cache
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_feedback.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_lesson_info.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_Log.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_hall.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_register.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_reward_info.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_user.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.GenerateResource.cache
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.CopyComplete
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\西南石油大学\软件工程原理\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\西南石油大学\软件工程原理\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\西南石油大学\软件工程原理\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\西南石油大学\软件工程原理\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csprojAssemblyReference.cache
+D:\西南石油大学\软件工程原理\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_feedback.resources
+D:\西南石油大学\软件工程原理\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_lesson_info.resources
+D:\西南石油大学\软件工程原理\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_Log.resources
+D:\西南石油大学\软件工程原理\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_hall.resources
+D:\西南石油大学\软件工程原理\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_register.resources
+D:\西南石油大学\软件工程原理\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_reward_info.resources
+D:\西南石油大学\软件工程原理\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_user.resources
+D:\西南石油大学\软件工程原理\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\西南石油大学\软件工程原理\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.GenerateResource.cache
+D:\西南石油大学\软件工程原理\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.CoreCompileInputs.cache
+D:\西南石油大学\软件工程原理\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.CopyComplete
+D:\西南石油大学\软件工程原理\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\西南石油大学\软件工程原理\Heacher\Heacherversion3\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+D:\西南石油大学\软件工程原理\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+D:\西南石油大学\软件工程原理\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+D:\西南石油大学\软件工程原理\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+D:\西南石油大学\软件工程原理\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csprojAssemblyReference.cache
+D:\西南石油大学\软件工程原理\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_feedback.resources
+D:\西南石油大学\软件工程原理\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_lesson_info.resources
+D:\西南石油大学\软件工程原理\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_Log.resources
+D:\西南石油大学\软件工程原理\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_hall.resources
+D:\西南石油大学\软件工程原理\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_register.resources
+D:\西南石油大学\软件工程原理\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_reward_info.resources
+D:\西南石油大学\软件工程原理\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_user.resources
+D:\西南石油大学\软件工程原理\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+D:\西南石油大学\软件工程原理\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.GenerateResource.cache
+D:\西南石油大学\软件工程原理\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.CoreCompileInputs.cache
+D:\西南石油大学\软件工程原理\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.CopyComplete
+D:\西南石油大学\软件工程原理\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+D:\西南石油大学\软件工程原理\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_feedback.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_lesson_info.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_Log.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_hall.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_register.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_reward_info.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.GenerateResource.cache
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.CopyComplete
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_user1.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\ldm 团队任务2\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_user.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\LAST\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\LAST\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\LAST\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_feedback.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_lesson_info.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_Log.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_hall.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_register.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_reward_info.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_user.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_user1.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\LAST\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.GenerateResource.cache
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\LAST\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\LAST\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.CopyComplete
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher α版本\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher α版本\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher α版本\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_feedback.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_lesson_info.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_Log.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_hall.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_register.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_reward_info.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_user.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_user1.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.GenerateResource.cache
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.CopyComplete
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacher α版本\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacher α版本\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacher α版本\Heacher界面\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_feedback.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_lesson_info.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_Log.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_hall.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_register.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_reward_info.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_user.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_user1.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.GenerateResource.cache
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.CopyComplete
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_reward_info1.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_lesson_info1.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.publish_class_user_info.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.publish_reward_user_info.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.recieve_reward_user_info.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.regist_class_use_info.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Desktop\Heacher\Heacher α版本\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_FindPas.resources
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csprojAssemblyReference.cache
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_feedback.resources
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_FindPas.resources
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_lesson_info.resources
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_lesson_info1.resources
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_Log.resources
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_hall.resources
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_register.resources
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_reward_info.resources
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_reward_info1.resources
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_user.resources
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_user1.resources
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.publish_class_user_info.resources
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.publish_reward_user_info.resources
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.recieve_reward_user_info.resources
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.regist_class_use_info.resources
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.GenerateResource.cache
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.CoreCompileInputs.cache
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.CopyComplete
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\bin\Debug\Heacher.exe.config
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\bin\Debug\Heacher.exe
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\bin\Debug\Heacher.pdb
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.exe
+E:\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.pdb
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\bin\Debug\Heacher.exe.config
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\bin\Debug\Heacher.exe
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\bin\Debug\Heacher.pdb
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_feedback.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_FindPas.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_lesson_info.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_lesson_info1.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_Log.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_hall.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_register.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_reward_info.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_reward_info1.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_user.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form_user1.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.publish_class_user_info.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.publish_reward_user_info.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.recieve_reward_user_info.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.regist_class_use_info.resources
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.GenerateResource.cache
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.CoreCompileInputs.cache
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csproj.CopyComplete
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.exe
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.pdb
+C:\Users\Administrator.WIN-4K5HDJFV5BS\Documents\Tencent Files\951920383\FileRecv\Heacher界面6.14LAST.1\Heacher界面6.13LAST\Heacher界面\WindowsFormsApp2\obj\Debug\Heacher.csprojAssemblyReference.cache
